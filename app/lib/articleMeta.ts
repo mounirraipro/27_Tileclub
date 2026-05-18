@@ -310,4 +310,14 @@ export const articleMeta: Record<string, ArticleMeta> = {
         category: 'Guides',
         readTime: '7 min read',
     },
+    'tile-club-tray-management-guide': {
+        slug: 'tile-club-tray-management-guide',
+        title: 'Tile Club Strategy Guide: How to Manage the Tray and Clear Boards Cleanly',
+        description: 'A practical Tile Club guide to tray management, board scanning, safe matches, layered tiles, and calmer puzzle decisions.',
+        datePublished: '2026-05-18',
+        dateModified: '2026-05-18',
+        keywords: ['Tile Club strategy', 'Tile Club guide', 'tile matching tips', 'tray management puzzle'],
+        category: 'Strategy',
+        readTime: '12 min read',
+    },
 };
